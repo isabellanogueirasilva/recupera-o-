@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0; 
+    background-color: rgba(193, 193, 193, 0.295);
+  }
+  
+  .header {
+    background-color: #D2691E; /* Marrom claro */
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-logo {
+    width: 100px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+    margin-right: 20px; /* Adicione margem à direita para separar o logotipo do título */
+  }
+  
+  .header-title {
+    margin: 0;
+    color: white;
+  }
+  
+  main {
+    padding: 35px;
+  }
+
+  
+  footer {
+    background-color: #D2691E; /* Marrom claro */
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;}
+    .main-text {
+      font-size: 30px; /* Altere o valor conforme necessário */
+    }
+    .main-text2 {
+      font-size: 20px; /* Altere o valor conforme necessário */
+    }
+   
+    ul{
+    display: flex;
+    justify-content: space-between;
+   list-style-type: none;
+   align-items: center;
+   margin-left: 20%;
+  }
+    
+a{
+  color: black;
+}
+img{
+  width: 150px;
+  height: 120px;
+  border-radius: 70%;
+}
+  
+    
